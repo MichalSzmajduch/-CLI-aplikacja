@@ -2,13 +2,13 @@
 <p>The Phone Book App allows you to manage a list of contacts by adding, displaying, removing, and fetching contact information.</p>
 <h2>Features</h2>
 <h3>Displaying the Contact List</h3>
-<src="/img/list" alt="display list">
+<img src="/img/list.png" alt="display list">
 <h3>Adding a Contact</h3>
-<src="/img/add" alt="adding contact">
+<img src="/img/add.png" alt="adding contact">
 <h3>Fetching a Contact</h3>
-<src="/img/find" alt="fetching contact">
+<img src="/img/find.png" alt="fetching contact">
 <h3>Removing a Contact</h3>
-<src="/img/remove" alt="removing contact">
+<img src="/img/remove.png" alt="removing contact">
 <h2>Usage</h2>
 <p>Displaying the Contact List</p>
 <ol>
